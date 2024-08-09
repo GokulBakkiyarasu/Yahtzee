@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/GokulBakkiyarasu/Yahtzee/static/css/main.757113d7.css",
-    "main.js": "/GokulBakkiyarasu/Yahtzee/static/js/main.6cfac64a.js",
-    "index.html": "/GokulBakkiyarasu/Yahtzee/index.html",
-    "main.757113d7.css.map": "/GokulBakkiyarasu/Yahtzee/static/css/main.757113d7.css.map",
-    "main.6cfac64a.js.map": "/GokulBakkiyarasu/Yahtzee/static/js/main.6cfac64a.js.map"
+    "main.css": "/Yahtzee/static/css/main.757113d7.css",
+    "main.js": "/Yahtzee/static/js/main.6cfac64a.js",
+    "index.html": "/Yahtzee/index.html",
+    "main.757113d7.css.map": "/Yahtzee/static/css/main.757113d7.css.map",
+    "main.6cfac64a.js.map": "/Yahtzee/static/js/main.6cfac64a.js.map"
   },
   "entrypoints": [
     "static/css/main.757113d7.css",
